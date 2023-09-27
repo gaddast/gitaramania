@@ -187,6 +187,39 @@ max-width: 700px;
 font-size: 1.3rem;
 padding-top: 2rem;
 }
+.description{
+width: 100%;
+}
+.description__content{
+display: flex;
+padding-top: 6rem;
+padding-bottom: 6rem;
+}
+.description__block-left,
+.description__block-righ{
+width: 50%;
+position: relative;
+padding: 3px 15px;
+}
+.description__title{
+
+}
+.description__text{
+  margin: 1.2rem;
+  font-size: 1rem;
+  text-decoration: none;
+  color: #333;
+  font-weight: 600;
+  text-align: center;
+
+}
+.description__block-right{
+
+}
+
+
+
+
    /* footer */
  .footer{
  width: 100%;
